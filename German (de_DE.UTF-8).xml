@@ -640,5 +640,21 @@
       <translation phrase="Not Billable"><![CDATA[nicht abrechnungsfähig]]></translation>
       <translation phrase="No Time"><![CDATA[Keine Zeit]]></translation>
       <translation phrase="No time"><![CDATA[Keine Zeit]]></translation>
+      <translation phrase="Are you sure that you want to delete this language?"><![CDATA[Bist du sicher, dass du die Sprache löschen möchtest?]]></translation>
+      <translation phrase="Activity log is empty"><![CDATA[Aktivitäts-Log ist leer]]></translation>
+      <translation phrase="Activity Logs"><![CDATA[Aktivitäts-Log]]></translation>
+      <translation phrase="All Mailboxes"><![CDATA[Alle Postfächer]]></translation>
+      <translation phrase="Add Mailbox"><![CDATA[Postfach hinzufügen]]></translation>
+      <translation phrase="Allow for"><![CDATA[Erlauben für]]></translation>
+      <translation phrase="Archive"><![CDATA[Archiv]]></translation>
+      <translation phrase="All Companies"><![CDATA[Alle Firmen]]></translation>
+      <translation phrase="Active Companies"><![CDATA[Aktive Firmen]]></translation>
+      <translation phrase="Archived Companies"><![CDATA[Archivierte Firmen]]></translation>
+      <translation phrase="An error occurred: :message"><![CDATA[Ein Fehler ist aufgetreten: :message]]></translation>
+      <translation phrase="Add Company"><![CDATA[Firma hinzufügen]]></translation>
+      <translation phrase="Add..."><![CDATA[Hinzufügen...]]></translation>
+      <translation phrase="Add a Category"><![CDATA[Kategorie hinzufügen]]></translation>
+      <translation phrase="All Discussions"><![CDATA[Alle Diskussionen]]></translation>
+      <translation phrase="Active Files"><![CDATA[Dateien archivieren]]></translation>
     </translations>
   </language>
