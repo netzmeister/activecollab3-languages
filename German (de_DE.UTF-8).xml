@@ -471,7 +471,7 @@
       <translation phrase="No assignees"><![CDATA[Niemand zugeordnet]]></translation>
       <translation phrase="Nobody"><![CDATA[Niemand]]></translation>
       <translation phrase="New Subtask"><![CDATA[Neue Teilaufgabe]]></translation>
-      <translation phrase="No one is assigned"><![CDATA[Niemand ist zugeordnet]]></translation>
+      <translation phrase="No one is assigned"><![CDATA[Niemand ist zugewiesen]]></translation>
       <translation phrase="No subtasks yet"><![CDATA[Bisher keine Teilaufgaben.]]></translation>
       <translation phrase="No active subtasks"><![CDATA[Keine aktiven Teilaufgaben.]]></translation>
       <translation phrase="Not Subscribed"><![CDATA[Nicht abonniert]]></translation>
@@ -544,8 +544,8 @@
       <translation phrase=":company Projects"><![CDATA[:company Projekte]]></translation>
       <translation phrase="&quot;:subject&quot; sent"><![CDATA[&quot;:subject&quot; gesendet]]></translation>
       <translation phrase="[No Subject]"><![CDATA[[No Subject]]]></translation>
-      <translation phrase="&quot;:name&quot; Completed"><![CDATA[Fertig: ':name']]></translation>
-      <translation phrase="&quot;:name&quot; Reopened"><![CDATA[&quot;:name&quot; wiedereröffnet]]></translation>
+      <translation phrase="&quot;:name&quot; Completed"><![CDATA[Fertig: &quot;:name&quot;]]></translation>
+      <translation phrase="&quot;:name&quot; Reopened"><![CDATA[Wiedereröffnet: &quot;:name&quot;]]></translation>
       <translation phrase="1 day"><![CDATA[1 Tag]]></translation>
       <translation phrase=":days days"><![CDATA[:days Tage]]></translation>
       <translation phrase="1 hour"><![CDATA[1 Stunde]]></translation>
@@ -656,6 +656,17 @@
       <translation phrase="Add a Category"><![CDATA[Kategorie hinzufügen]]></translation>
       <translation phrase="All Discussions"><![CDATA[Alle Diskussionen]]></translation>
       <translation phrase="Active Files"><![CDATA[Dateien archivieren]]></translation>
-      <translation phrase="':name' Subtask Created"><![CDATA[Neu: ':name']]></translation>
+      <translation phrase="':name' Subtask Created"><![CDATA[Neu: &quot;:name&quot;]]></translation>
+      <translation phrase="New comment on ':object_name' :object_type"><![CDATA[Neuer Kommentar; ':object_name' :object_type]]></translation>
+      <translation phrase="No comments yet"><![CDATA[Keine Kommentare bisher]]></translation>
+      <translation phrase="No subscribers"><![CDATA[Keine Abonnenten]]></translation>
+      <translation phrase="No one is&lt;br /&gt;assigned"><![CDATA[Niemand ist&lt;br /&gt;zugewiesen]]></translation>
+      <translation phrase="':name' Completed"><![CDATA[Abgeschlossen: &quot;:name&quot;]]></translation>
+      <translation phrase="--Select--"><![CDATA[--auswählen--]]></translation>
+      <translation phrase=":object_type has been added to favorites"><![CDATA[:object_type wurde zu den Favoriten hinzugefügt]]></translation>
+      <translation phrase=":object_type has been removed from favorites"><![CDATA[:object_type wurde von den Favoriten entfernt]]></translation>
+      <translation phrase=":name's Reminders"><![CDATA[:name's Erinnerungen]]></translation>
+      <translation phrase=":count reminders"><![CDATA[:count Erinnerungen]]></translation>
+      <translation phrase="[:project] Recent Activities"><![CDATA[[:project] letze Aktivitäten]]></translation>
     </translations>
   </language>
