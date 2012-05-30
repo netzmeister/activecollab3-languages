@@ -544,7 +544,7 @@
       <translation phrase=":company Projects"><![CDATA[:company Projekte]]></translation>
       <translation phrase="&quot;:subject&quot; sent"><![CDATA[&quot;:subject&quot; gesendet]]></translation>
       <translation phrase="[No Subject]"><![CDATA[[No Subject]]]></translation>
-      <translation phrase="&quot;:name&quot; Completed"><![CDATA[&quot;:name&quot; abgeschlossen]]></translation>
+      <translation phrase="&quot;:name&quot; Completed"><![CDATA[Fertig: ':name']]></translation>
       <translation phrase="&quot;:name&quot; Reopened"><![CDATA[&quot;:name&quot; wiedereröffnet]]></translation>
       <translation phrase="1 day"><![CDATA[1 Tag]]></translation>
       <translation phrase=":days days"><![CDATA[:days Tage]]></translation>
@@ -656,5 +656,6 @@
       <translation phrase="Add a Category"><![CDATA[Kategorie hinzufügen]]></translation>
       <translation phrase="All Discussions"><![CDATA[Alle Diskussionen]]></translation>
       <translation phrase="Active Files"><![CDATA[Dateien archivieren]]></translation>
+      <translation phrase="':name' Subtask Created"><![CDATA[Neu: ':name']]></translation>
     </translations>
   </language>
