@@ -657,7 +657,7 @@
       <translation phrase="All Discussions"><![CDATA[Alle Diskussionen]]></translation>
       <translation phrase="Active Files"><![CDATA[Dateien archivieren]]></translation>
       <translation phrase="':name' Subtask Created"><![CDATA[Neu: &quot;:name&quot;]]></translation>
-      <translation phrase="New comment on ':object_name' :object_type"><![CDATA[Neuer Kommentar; ':object_name' :object_type]]></translation>
+      <translation phrase="New comment on ':object_name' :object_type"><![CDATA[Neuer Kommentar: ':object_name' :object_type]]></translation>
       <translation phrase="No comments yet"><![CDATA[Keine Kommentare bisher]]></translation>
       <translation phrase="No subscribers"><![CDATA[Keine Abonnenten]]></translation>
       <translation phrase="No one is&lt;br /&gt;assigned"><![CDATA[Niemand ist&lt;br /&gt;zugewiesen]]></translation>
@@ -668,5 +668,44 @@
       <translation phrase=":name's Reminders"><![CDATA[:name's Erinnerungen]]></translation>
       <translation phrase=":count reminders"><![CDATA[:count Erinnerungen]]></translation>
       <translation phrase="[:project] Recent Activities"><![CDATA[[:project] letze Aktivitäten]]></translation>
+      <translation phrase=":item has been created successfully"><![CDATA[:item wurde erfolgreich erstellt]]></translation>
+      <translation phrase="Notify sender"><![CDATA[informiere Absender]]></translation>
+      <translation phrase="No emails in mailbox"><![CDATA[Keine EMail im Postkasten]]></translation>
+      <translation phrase="New Filter"><![CDATA[Neuer Filter]]></translation>
+      <translation phrase="New Mailbox"><![CDATA[Neue Mailbox]]></translation>
+      <translation phrase="No users selected"><![CDATA[Keine Benutzer ausgewählt]]></translation>
+      <translation phrase="New User"><![CDATA[Neuer Benutzer]]></translation>
+      <translation phrase="New Language"><![CDATA[Neue Sprache]]></translation>
+      <translation phrase="New..."><![CDATA[Neu...]]></translation>
+      <translation phrase="New Password"><![CDATA[Neues Passwort]]></translation>
+      <translation phrase="Never executed"><![CDATA[Niemals ausgeführt]]></translation>
+      <translation phrase="Normal"><![CDATA[normal]]></translation>
+      <translation phrase="Name #:char"><![CDATA[Name #:char]]></translation>
+      <translation phrase="Non-Billable"><![CDATA[nicht abrechnungsfähig]]></translation>
+      <translation phrase="New Invoice"><![CDATA[Neue Rechnung]]></translation>
+      <translation phrase="New Payment"><![CDATA[Neue Zahlung]]></translation>
+      <translation phrase="Notebook Pages"><![CDATA[Notizbuch Seiten]]></translation>
+      <translation phrase="Notbook Page name is required"><![CDATA[Notizbuch-Name wir benötigt]]></translation>
+      <translation phrase="No Priority"><![CDATA[keine Priorität]]></translation>
+      <translation phrase="-- System Default (:theme) --"><![CDATA[-- System Standard (:theme) --]]></translation>
+      <translation phrase="-- Select timezone --"><![CDATA[-- Wähle Zeitzone --]]></translation>
+      <translation phrase="-- System Default (Normal) --"><![CDATA[-- System Standard (Normal) --]]></translation>
+      <translation phrase="-- System Default (Private) --"><![CDATA[-- System Standard (Privat) --]]></translation>
+      <translation phrase="-- System Default (:default) --"><![CDATA[-- System Standard (:default) --]]></translation>
+      <translation phrase=":name module has been installed"><![CDATA[:name Modul wurde installiert]]></translation>
+      <translation phrase=":name module has been uninstalled"><![CDATA[:name Modul wurde deinstalliert]]></translation>
+      <translation phrase="-- System Default (:value) --"><![CDATA[-- System Standard (:value) --]]></translation>
+      <translation phrase=":name language has been deleted"><![CDATA[:name Sprache wurde gelöscht]]></translation>
+      <translation phrase=" language deleted"><![CDATA[ Sprache gelöscht]]></translation>
+      <translation phrase=" language updated"><![CDATA[ Sprache aktualisiert]]></translation>
+      <translation phrase="-- None --"><![CDATA[-- keine --]]></translation>
+      <translation phrase=":name Recent Activities"><![CDATA[:name letzte Aktivitäten]]></translation>
+      <translation phrase="1 Day Late"><![CDATA[1 Tag verspätet]]></translation>
+      <translation phrase=":days Days Late"><![CDATA[:days Tage verspätet]]></translation>
+      <translation phrase=":num Attachments"><![CDATA[:num Anhänge]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; is responsible."><![CDATA[&lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; ist Ansprechpartner.]]></translation>
+      <translation phrase="3 Letters or Longer"><![CDATA[3 Zeichen oder länger]]></translation>
+      <translation phrase="&lt;strong&gt;1&lt;/strong&gt; task open"><![CDATA[&lt;strong&gt;1&lt;/strong&gt; Aufgabe offen]]></translation>
+      <translation phrase="&lt;strong&gt;:open_tasks_count&lt;/strong&gt; tasks open"><![CDATA[&lt;strong&gt;:open_tasks_count&lt;/strong&gt; Aufgaben offen]]></translation>
     </translations>
   </language>
