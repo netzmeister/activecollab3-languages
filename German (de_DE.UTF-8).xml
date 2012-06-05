@@ -1,6 +1,6 @@
 <language>
   <info>
-    <ac_version><![CDATA[3.1.3]]></ac_version>
+    <ac_version><![CDATA[3.1.4]]></ac_version>
     <name><![CDATA[German]]></name>
     <locale><![CDATA[de_DE.UTF-8]]></locale>
   </info>
@@ -708,7 +708,7 @@
       <translation phrase="&lt;strong&gt;1&lt;/strong&gt; task open"><![CDATA[&lt;strong&gt;1&lt;/strong&gt; Aufgabe offen]]></translation>
       <translation phrase="&lt;strong&gt;:open_tasks_count&lt;/strong&gt; tasks open"><![CDATA[&lt;strong&gt;:open_tasks_count&lt;/strong&gt; Aufgaben offen]]></translation>
       <translation phrase="&lt;strong&gt;One&lt;/strong&gt; billable hour submitted to &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase"><![CDATA[&lt;strong&gt;Eine&lt;/strong&gt; abrechnungsfähige Stunde eingetragen in &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase]]></translation>
-      <translation phrase="&lt;strong&gt;:hours&lt;/strong&gt; billable hours submitted to &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase"><![CDATA[&lt;strong&gt;:hours&lt;/strong&gt;abrechnungsfähige Stunden eingetragen in &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase]]></translation>
+      <translation phrase="&lt;strong&gt;:hours&lt;/strong&gt; billable hours submitted to &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase"><![CDATA[&lt;strong&gt;:hours&lt;/strong&gt; abrechnungsfähige Stunden eingetragen in &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase]]></translation>
       <translation phrase="&lt;strong&gt;One&lt;/strong&gt; non billable hour submitted to &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase"><![CDATA[&lt;strong&gt;Eine&lt;/strong&gt; nicht abrechnungsfähige Stunde eingetragen in &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase]]></translation>
       <translation phrase="&lt;strong&gt;:hours&lt;/strong&gt; non billable hours submitted to &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase"><![CDATA[&lt;strong&gt;:hours&lt;/strong&gt; nicht abrechnungsfähige Stunden eingetragen in &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase]]></translation>
       <translation phrase=":value non billable hours submitted to &quot;:target_name&quot; :target_type_lowercase"><![CDATA[:value nicht abrechnungsfähige Stunden eingetragen in &quot;:target_name&quot; :target_type_lowercase]]></translation>
@@ -719,5 +719,52 @@
       <translation phrase="&lt;strong&gt;:hours&lt;/strong&gt; non billable hours submitted to :target_name :target_type_lowercase"><![CDATA[&lt;strong&gt;:hours&lt;/strong&gt; nicht abrechnungsfähige Stunden eingetragen in :target_name :target_type_lowercase]]></translation>
       <translation phrase=":name's Calendar"><![CDATA[:name's Kalender]]></translation>
       <translation phrase=":num Pages Selected"><![CDATA[:num Seiten ausgewählt]]></translation>
+      <translation phrase=":value hour of :job (:costs)"><![CDATA[:value Stunde für :job (:costs)]]></translation>
+      <translation phrase=":value hours of :job (:costs)"><![CDATA[:value Stunden für :job (:costs)]]></translation>
+      <translation phrase=":value hour of :job by :name"><![CDATA[:value Stunde für :job von :name]]></translation>
+      <translation phrase=":value hours of :job by :name"><![CDATA[:value Stunden für :job von :name]]></translation>
+      <translation phrase=":value hour of :job"><![CDATA[:value Stunde für :job]]></translation>
+      <translation phrase=":value hours of :job"><![CDATA[:value Stunde für :job]]></translation>
+      <translation phrase=":commits commits on :day"><![CDATA[:commits Commits am :day]]></translation>
+      <translation phrase=" File is the same in both revisions."><![CDATA[ Die Datei ist in beiden Revisionen identisch.]]></translation>
+      <translation phrase=":display_name's Status Updates"><![CDATA[:display_name's Status Meldungen]]></translation>
+      <translation phrase="-- Not Set --"><![CDATA[-- Nicht gesetzt --]]></translation>
+      <translation phrase=":user is using default home screen"><![CDATA[:user benutzt die Standard Startseite]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; has reopened &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type neu geöffnet]]></translation>
+      <translation phrase="-- REPLY ABOVE THIS LINE --"><![CDATA[-- ANTWORT ÜBER DIESER LINIE / AM BESTEN DEN BISHERIGEN TEXT KOMPLETT ENTFERNEN --]]></translation>
+      <translation phrase=":object_name Completed"><![CDATA[:object_name Erledigt]]></translation>
+      <translation phrase=":name :type_lowercase moved to archive"><![CDATA[:name :type_lowercase ins Archiv verschoben]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase in &lt;a href=&quot;:target_url&quot; title=&quot;:target_name&quot;&gt;:target_name_short&lt;/a&gt; :target_type_lowercase completed"><![CDATA[&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase in &lt;a href=&quot;:target_url&quot; title=&quot;:target_name&quot;&gt;:target_name_short&lt;/a&gt; :target_type_lowercase abgeschlossen]]></translation>
+      <translation phrase=":user_name"><![CDATA[:user_name]]></translation>
+      <translation phrase=":user's Recent Activities"><![CDATA[:user's Letzte Aktivitäten]]></translation>
+      <translation phrase="Import"><![CDATA[Importieren]]></translation>
+      <translation phrase="Incoming Mail Conflicts"><![CDATA[Eingehende Mail Konflikte]]></translation>
+      <translation phrase="Incoming Mail"><![CDATA[Eingehende Mail]]></translation>
+      <translation phrase="In the Background"><![CDATA[Im Hintergrund]]></translation>
+      <translation phrase="In Project"><![CDATA[Im Projekt]]></translation>
+      <translation phrase="Insert"><![CDATA[Einfügen]]></translation>
+      <translation phrase="Image URL"><![CDATA[Bild URL]]></translation>
+      <translation phrase="Image URL is not in valid format"><![CDATA[Bild URL hat kein korrektes Format]]></translation>
+      <translation phrase="Insert Link"><![CDATA[Link einfügen]]></translation>
+      <translation phrase="Insert Table"><![CDATA[Tabelle einfügen]]></translation>
+      <translation phrase="Italic"><![CDATA[Kursiv]]></translation>
+      <translation phrase="Indent"><![CDATA[Einzug]]></translation>
+      <translation phrase="Image"><![CDATA[Bild]]></translation>
+      <translation phrase="Internal"><![CDATA[Intern]]></translation>
+      <translation phrase="In Projects"><![CDATA[In Projekten]]></translation>
+      <translation phrase="In projects"><![CDATA[In Projekten]]></translation>
+      <translation phrase="Identity"><![CDATA[Indentität]]></translation>
+      <translation phrase="Import vCard"><![CDATA[vCard importieren]]></translation>
+      <translation phrase="Import Email"><![CDATA[Mail importieren]]></translation>
+      <translation phrase="Invoice #:num"><![CDATA[Rechnung #:num]]></translation>
+      <translation phrase="Invoice Draft #:invoice_id"><![CDATA[Rechnungsentwurf #:invoice_id]]></translation>
+      <translation phrase="Invoice Draft #:invoice_num"><![CDATA[Rechnungsentwurf #:invoice_num]]></translation>
+      <translation phrase="Invoice ID"><![CDATA[Rechnungsnummer]]></translation>
+      <translation phrase="Trash emptied successfully"><![CDATA[Papierkorb erfolgreich geleert]]></translation>
+      <translation phrase="Tue"><![CDATA[Di]]></translation>
+      <translation phrase="Thu"><![CDATA[Do]]></translation>
+      <translation phrase="Text Color"><![CDATA[Textfarbe]]></translation>
+      <translation phrase="Text Font Size"><![CDATA[Text Schriftgröße]]></translation>
+      <translation phrase="Text Font Family"><![CDATA[Text Schriftart]]></translation>
     </translations>
   </language>
