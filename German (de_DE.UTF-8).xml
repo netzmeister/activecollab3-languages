@@ -1263,8 +1263,8 @@
       <translation phrase="All Matched Records"><![CDATA[Alle übereinstimmenden Einträge]]></translation>
       <translation phrase="Adds time and expense tracking support to projects"><![CDATA[Fügt Zeit und Überwachungsunterstützung zum Projekt hinzu]]></translation>
       <translation phrase="All Expense Categories"><![CDATA[Alle Aufwandskategorien]]></translation>
-      <translation phrase="Add Job Type"><![CDATA[Job Typ hinzufügen]]></translation>
-      <translation phrase="All projects are using default hourly rate for this job type"><![CDATA[Alle Projekte, die den Standard Stundensatz für diesen Job Typ nutzen]]></translation>
+      <translation phrase="Add Job Type"><![CDATA[Auftragsart hinzufügen]]></translation>
+      <translation phrase="All projects are using default hourly rate for this job type"><![CDATA[Alle Projekte, die den Standard Stundensatz für diese Auftragsart nutzen]]></translation>
       <translation phrase="Added On"><![CDATA[Hinzugefügt am]]></translation>
       <translation phrase="All Time &amp; Expenses"><![CDATA[Alle Zeiten &amp; Aufwände]]></translation>
       <translation phrase="Are you sure that you want to move this time record to the Trash?"><![CDATA[Sind Sie sicher, dass Sie diese Zeiterfassung in den Papierkorb bewegen möchten?]]></translation>
@@ -1272,8 +1272,8 @@
       <translation phrase="Are you sure that you want to remove selected tracking report?"><![CDATA[Sind Sie sicher, dass Sie den selektierten Zeiterfassungsbericht löschen möchten?]]></translation>
       <translation phrase="Are you sure that you want to set this expense category as default expense category?"><![CDATA[Sind Sie sicher, dass Sie diese Aufwandskategorie als Standard Aufwandskategorie festlegen möchten?]]></translation>
       <translation phrase="Are you sure that you want to permanently delete this expense category?"><![CDATA[Sind Sie sicher, dass Sie diese Aufwandskategorie permanent löschen möchten?]]></translation>
-      <translation phrase="Are you sure that you want to set this job type as default job type?"><![CDATA[Sind Sie sicher, dass Sie diesen Job Typ als Standard Job Typ festlegen möchten?]]></translation>
-      <translation phrase="Are you sure that you want to permanently delete this job type?"><![CDATA[Sind Sie sicher, dass Sie]]></translation>
+      <translation phrase="Are you sure that you want to set this job type as default job type?"><![CDATA[Sind Sie sicher, dass Sie diese Auftragsart als Standard Auftragsart festlegen möchten?]]></translation>
+      <translation phrase="Are you sure that you want to permanently delete this job type?"><![CDATA[Sind Sie sicher, dass Sie diese Auftragsart permanent löschen wollen?]]></translation>
       <translation phrase="Any Day"><![CDATA[Irgendein Tag]]></translation>
       <translation phrase="Already Paid"><![CDATA[Bereits bezahlt]]></translation>
       <translation phrase="All documents"><![CDATA[Alle Dokumente]]></translation>
@@ -2044,7 +2044,7 @@
       <translation phrase="Form slug is required"><![CDATA[Formular Ausgangsform ist notwendig]]></translation>
       <translation phrase="Failed to set selected expense category as default"><![CDATA[Fehler beim Setzen der selektierten Kosten Kategorie als Standard]]></translation>
       <translation phrase="For Day"><![CDATA[Seit Tagen]]></translation>
-      <translation phrase="Failed to set selected job type as default"><![CDATA[Fehler beim Setzen des selektierten Jobs als Standard]]></translation>
+      <translation phrase="Failed to set selected job type as default"><![CDATA[Fehler beim Setzen des selektierte Auftragsart als Standard]]></translation>
       <translation phrase="Global payment"><![CDATA[Globe Zahlung]]></translation>
       <translation phrase="Go"><![CDATA[fortfahren]]></translation>
       <translation phrase="Go Live"><![CDATA[Live gehen]]></translation>
@@ -2188,5 +2188,26 @@
       <translation phrase="Instructions sent!"><![CDATA[Anweisungen gesendet!]]></translation>
       <translation phrase="Inquiry received"><![CDATA[Anfrage erhalten]]></translation>
       <translation phrase="It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages"><![CDATA[Es hat nicht nur 5 Jahrzehnte überlebt, es hat sogar Einzug in elektronische Zeichensätzen erhalten, und ist fast unverändert. Es wurde veröffentlich in 1960 mit der Version von Letraset Tabelle, die die Lorem ipsum Passagen beinhaltete]]></translation>
+      <translation phrase="Jan"><![CDATA[Jan]]></translation>
+      <translation phrase="Jun"><![CDATA[Jun]]></translation>
+      <translation phrase="Jul"><![CDATA[Jul]]></translation>
+      <translation phrase="Justify Left"><![CDATA[Links ausrichten]]></translation>
+      <translation phrase="Justify Center"><![CDATA[Mittig ausrichten]]></translation>
+      <translation phrase="Justify Right"><![CDATA[Rechts ausrichten]]></translation>
+      <translation phrase="Jump To"><![CDATA[Springe zu]]></translation>
+      <translation phrase="Just Like Online Forums"><![CDATA[Wie ein Online Forum]]></translation>
+      <translation phrase="Justify Full"><![CDATA[Blocksatz]]></translation>
+      <translation phrase="JavaScript is a System Requirement"><![CDATA[JavaScript ist eine System Vorrausetzung]]></translation>
+      <translation phrase="Job Types &amp; Hourly Rates"><![CDATA[Auftragsarten &amp; Stundensätze]]></translation>
+      <translation phrase="Job type is required"><![CDATA[Auftragsart ist notwendig]]></translation>
+      <translation phrase="Job type name must be unique"><![CDATA[Auftragsarts Name mus eindeutig sein]]></translation>
+      <translation phrase="Job type name is required"><![CDATA[Auftragsarts Name ist notwendig]]></translation>
+      <translation phrase="Job Type Details"><![CDATA[Auftragsart Details]]></translation>
+      <translation phrase="Job"><![CDATA[Auftrag]]></translation>
+      <translation phrase="Job Type"><![CDATA[Auftragsart]]></translation>
+      <translation phrase="Job type has been deleted successfully"><![CDATA[Auftragsart wurde erfolgreich gelöscht]]></translation>
+      <translation phrase="Keep time records as separate invoice items"><![CDATA[Zeiterfassung als separates Rechnungselement behalten]]></translation>
+      <translation phrase="Keep in mind that invoice will be generated in selected currency, regardless invoice items currency."><![CDATA[Bitte bedenken Sie, dass die Rechnung immer in der selektierten Währung erstellt wird, ohne Rücksicht auf die in den Rechnungspositionen eingestellten Währungen]]></translation>
+      <translation phrase="Keep Your Calendar Application in Sync with Milestones"><![CDATA[Synchronisieren Sie Ihre Kalender Software mit den Meilensteien]]></translation>
     </translations>
   </language>
