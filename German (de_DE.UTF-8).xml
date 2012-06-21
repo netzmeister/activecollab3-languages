@@ -531,9 +531,9 @@
       <translation phrase=":date by :user"><![CDATA[:date von :user]]></translation>
       <translation phrase=":percent% over budget"><![CDATA[:percent% über Budget]]></translation>
       <translation phrase="Yesterday"><![CDATA[Gestern]]></translation>
-      <translation phrase="Your Name"><![CDATA[Dein Name]]></translation>
-      <translation phrase="Your Email"><![CDATA[Deine Email Adresse]]></translation>
-      <translation phrase="Your Comment"><![CDATA[Dein Kommentar]]></translation>
+      <translation phrase="Your Name"><![CDATA[Ihr Name]]></translation>
+      <translation phrase="Your Email"><![CDATA[Ihre Email Adresse]]></translation>
+      <translation phrase="Your Comment"><![CDATA[Ihr Kommentar]]></translation>
       <translation phrase="Yearly"><![CDATA[jährlich]]></translation>
       <translation phrase="Yes"><![CDATA[Ja]]></translation>
       <translation phrase="Who is Online?"><![CDATA[Wer ist online?]]></translation>
@@ -2209,5 +2209,52 @@
       <translation phrase="Keep time records as separate invoice items"><![CDATA[Zeiterfassung als separates Rechnungselement behalten]]></translation>
       <translation phrase="Keep in mind that invoice will be generated in selected currency, regardless invoice items currency."><![CDATA[Bitte bedenken Sie, dass die Rechnung immer in der selektierten Währung erstellt wird, ohne Rücksicht auf die in den Rechnungspositionen eingestellten Währungen]]></translation>
       <translation phrase="Keep Your Calendar Application in Sync with Milestones"><![CDATA[Synchronisieren Sie Ihre Kalender Software mit den Meilensteien]]></translation>
+      <translation phrase="Zlib extension not loaded, could not create archive file :archive. Exported files are available in folder :folder"><![CDATA[Zlib Erweiterung nicht geladen, kann :archive nicht erstellen. Exportierte Dateien sind im Ornder :folder verfügbar]]></translation>
+      <translation phrase="You have unsubscribed from this :type"><![CDATA[Sie müssen das abonnement mit :type beenden]]></translation>
+      <translation phrase="You have subscribed to this :type"><![CDATA[Sie müssen :type abonnieren]]></translation>
+      <translation phrase="You can read more about Scheduled Tasks and how they should be configured in &lt;a href=&quot;:url&quot; target=&quot;_blank&quot;&gt;Administrator's Guide&lt;/a&gt;"><![CDATA[Sie können mehr über geplante Aufgaben und wie sie konfiguriert werden im  &lt;a href=&quot;:url&quot; target=&quot;_blank&quot;&gt;Administrations-Anleitung&lt;/a&gt; nachlesen]]></translation>
+      <translation phrase="You do not have permission to install this module"><![CDATA[Sie haben keine Berechtigung, um dieses Modul zu installieren]]></translation>
+      <translation phrase="You need to upload XML file first"><![CDATA[Sie müssen zuerst die XML Datei hochladen]]></translation>
+      <translation phrase="You have been logged in as :name. Please wait until interface is reloaded"><![CDATA[Sie wurden als :name eingeloggt. Bitte warten Sie bis die Seite neu geladen wurde]]></translation>
+      <translation phrase="You don't have permissions to delete this filter"><![CDATA[Sie haben nicht die Berechtigung, um diesen Filter zu löschen]]></translation>
+      <translation phrase="You have 1 conflict."><![CDATA[Sie haben 1 Konflikt.]]></translation>
+      <translation phrase="You have :num conflicts."><![CDATA[Sie haben :num Konflikte.]]></translation>
+      <translation phrase="Your name is required"><![CDATA[Ihr Name wird benötigt]]></translation>
+      <translation phrase="Your email address is required"><![CDATA[Ihre Email Adresse wird benötigt]]></translation>
+      <translation phrase="Your comment is required"><![CDATA[Ihr Kommentar wird benötigt]]></translation>
+      <translation phrase="You have successfully subscribed to this :object_type"><![CDATA[Sie haben diesen :object_type erfolgreich abonniert]]></translation>
+      <translation phrase="You have successfully unsubscribed from this :object_type"><![CDATA[Sie haben das abonnement des :object_type beendet]]></translation>
+      <translation phrase="You are using default home screen"><![CDATA[Sie benutzen die Standard-Startseite]]></translation>
+      <translation phrase="You need to upload vCard file first"><![CDATA[Sie müssen zuerst eine vCard hochladen]]></translation>
+      <translation phrase="You did not mark any projects as favorite"><![CDATA[Sie haben keine Projekte als Favorit markiert]]></translation>
+      <translation phrase="You successfully took over this request"><![CDATA[Sie haben die Anfrage erfolgreich übernommen]]></translation>
+      <translation phrase="Yes, create them"><![CDATA[Ja, erstelle sie]]></translation>
+      <translation phrase="You do not have any subscriptions in this project"><![CDATA[Sie haben keine Abonnements in diesem Projekt]]></translation>
+      <translation phrase="Your Email Address"><![CDATA[Ihre Email Adresse]]></translation>
+      <translation phrase="Your Company Name"><![CDATA[Ihr Firmenname]]></translation>
+      <translation phrase="You don't have permission to add milestones to this project"><![CDATA[Sie haben keine Berechtigung um neue Meilensteine in diesem Projekt zu erstellen]]></translation>
+      <translation phrase="You don't have permission to add tasks to this project"><![CDATA[Sie haben keine Berechtigung um neue Aufgaben in diesem Projekt zu erstellen]]></translation>
+      <translation phrase="You don't have permission to add todo lists to this project"><![CDATA[Sie haben keine Berechtigung um neue Todo-Listen in diesem Projekt zu erstellen]]></translation>
+      <translation phrase="You don't have permission to add subtask to this :object_name"><![CDATA[Sie haben keine Berechtigung um neue Unteraufgaben in diesem :object_name zu erstellen]]></translation>
+      <translation phrase="YouTube Videos"><![CDATA[YouTube Videos]]></translation>
+      <translation phrase="YouTube Video"><![CDATA[YouTube Video]]></translation>
+      <translation phrase="YouTube video &quot;:name&quot; uploaded"><![CDATA[YouTube Video &quot;:name&quot; hochgeladen]]></translation>
+      <translation phrase="YouTube URL"><![CDATA[YouTube URL]]></translation>
+      <translation phrase="Youtube URL is required"><![CDATA[Youtube URL wird benötigt]]></translation>
+      <translation phrase="Youtube URL is not valid"><![CDATA[Youtube URL ist ungültig]]></translation>
+      <translation phrase="YouTube Video Details"><![CDATA[YouTube Video Details]]></translation>
+      <translation phrase="Yes, Change the Default Hourly Rate"><![CDATA[Ja, ändere den Standard Stundensatz]]></translation>
+      <translation phrase="We\"><![CDATA[Wir\]]></translation>
+      <translation phrase="Work Phone Number"><![CDATA[Arbeits-Telefonnummer]]></translation>
+      <translation phrase="Welcome to :name"><![CDATA[Willkommen zu :name]]></translation>
+      <translation phrase="Work #"><![CDATA[Arbeit #]]></translation>
+      <translation phrase="Welcome message has been sent"><![CDATA[Willkommens-Nachricht wurde verschickt]]></translation>
+      <translation phrase="What is API"><![CDATA[Was ist API]]></translation>
+      <translation phrase="What are Object Templates?"><![CDATA[Was sind Objekt Vorlagen?]]></translation>
+      <translation phrase="When Users Log Out"><![CDATA[Wenn Benutzer sich ausloggt]]></translation>
+      <translation phrase="Would you like to &lt;a href=&quot;:add_url&quot;&gt;create one&lt;/a&gt;?"><![CDATA[Möchten Sie &lt;a href=&quot;:add_url&quot;&gt;einen erstellen&lt;/a&gt;?]]></translation>
+      <translation phrase="With selected:"><![CDATA[Mit ausgewählten:]]></translation>
+      <translation phrase="Working ..."><![CDATA[arbeitet ...]]></translation>
+      <translation phrase="Will be moved after commit"><![CDATA[Wir nach dem Commit entfernt]]></translation>
     </translations>
   </language>
