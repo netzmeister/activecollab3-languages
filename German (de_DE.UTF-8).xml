@@ -989,7 +989,7 @@
       <translation phrase="Module"><![CDATA[Modul]]></translation>
       <translation phrase="Module has been disabled"><![CDATA[Modul wurde deaktiviert]]></translation>
       <translation phrase="Module has been enabled"><![CDATA[Modul wurde aktiviert]]></translation>
-      <translation phrase="Manage Trashed Data"><![CDATA[Verwaltung der gelöschten daten]]></translation>
+      <translation phrase="Manage Trashed Data"><![CDATA[Verwaltung der gelöschten Daten]]></translation>
       <translation phrase="Marked as completed"><![CDATA[Kennzeichnung als abgeschlossen]]></translation>
       <translation phrase="Marked as open"><![CDATA[Kennzeichnung als eröffnet]]></translation>
       <translation phrase="Client Vendor"><![CDATA[Kunden Anbieter]]></translation>
@@ -2172,7 +2172,7 @@
       <translation phrase="Issued On: :issue_date"><![CDATA[Ausgestellt am :issue_date]]></translation>
       <translation phrase="Item has been deleted successfully"><![CDATA[Element wurde erfolgreich gelöscht]]></translation>
       <translation phrase="Invoice background image removed successfully"><![CDATA[Rechnungshintergrund Bild wurde erfolgreich entfernt]]></translation>
-      <translation phrase="Identity Settings"><![CDATA[Identitätseinstellungen]]></translation>
+      <translation phrase="Identity Settings"><![CDATA[Identitäts- Einstellungen]]></translation>
       <translation phrase="Identity settings have been updated"><![CDATA[Identitätseinstellungen wurde aktualisiert]]></translation>
       <translation phrase="Invoice total is invalid. Invoice total must be greater than zero"><![CDATA[Rechnungssumme ist nicht gültig. Die Rechnungssumme muss größer als 0 sein]]></translation>
       <translation phrase="Import template data"><![CDATA[Import Schablonen Daten]]></translation>
@@ -2909,5 +2909,233 @@
       <translation phrase="When records are released, relation between this invoice and them is removed, without any records being deleted. Instead, releated records will be reverted to their original, billable state, and invoice will not change their status in the future"><![CDATA[Wenn die Aufzeichnungen freigegeben werden, wird die Beziehung zwischen Ihnen und dieser Rechnung entfernt, ohne die Aufzeichnungen zu löschen. Stattdessen werden die verwandten Aufzeichnungen in die Originalen, abrechenbaren Zustand zurückgeführt und die Rechnungen werden diesen Status in Zukunft nicht ändern]]></translation>
       <translation phrase="When you update a tax rate, change will be applied to all past and future invoices. If rate of any specific tax has been changed and you would like old invoices to preserve old rate, create a new tax rate instead of updating the old one"><![CDATA[Wenn Sie einen Steuersatz aktualisieren, wird dies für alle vergangenen und künftigen Rechnungen angewandt. Wenn ein bestimmter Steuersatz sich geändert hat und Sie möchten, das die alten Rechnungen nicht geändert werden, legen Sie einen neuen Steuersatz an, anstelle einen alten zu aktualisieren]]></translation>
       <translation phrase=":completed of :total task completed (:percentage % done)"><![CDATA[:completed von :total Aufgaben abgeschlossen (:percentage % erledigt)]]></translation>
+      <translation phrase="Task Created"><![CDATA[Aufgabe erstellt]]></translation>
+      <translation phrase="Unit cost"><![CDATA[Kosten pro Einheit]]></translation>
+      <translation phrase="Username is required"><![CDATA[Benutzername wird benötigt]]></translation>
+      <translation phrase="Unknown conflict status"><![CDATA[Unbekannter Konfliktstatus]]></translation>
+      <translation phrase="User does not have permission to create object in selected project"><![CDATA[Der Benutzer verfügt über keine Berechtigung um ein Objekt im ausgewählten Projekt zu erzeugen]]></translation>
+      <translation phrase="User does not have permission to create comment in selected object"><![CDATA[Der Benutzer verfügt über keine Berechtigung um einen Kommentar im ausgewählten Objekt zu erzeugen]]></translation>
+      <translation phrase="Unavailable Actions"><![CDATA[Nicht verfügbare Aktionen]]></translation>
+      <translation phrase="UID"><![CDATA[UID]]></translation>
+      <translation phrase="Use external SMTP server to send messages"><![CDATA[Benutze externen SMTP Server um Nachrichten zu versenden]]></translation>
+      <translation phrase="Use message priority"><![CDATA[Benutze Nachrichtenpriorität]]></translation>
+      <translation phrase="Update Priority"><![CDATA[Aktualisierungspriorität]]></translation>
+      <translation phrase="Unlock Comments"><![CDATA[Offene Kommentare]]></translation>
+      <translation phrase="Update Category"><![CDATA[Aktualisiere Kategorie]]></translation>
+      <translation phrase="Update Label"><![CDATA[Aktalisiere Etikett]]></translation>
+      <translation phrase="Update Assignees"><![CDATA[Aktualisiere Beauftragungen]]></translation>
+      <translation phrase="Update Code"><![CDATA[Aktualisiere Code]]></translation>
+      <translation phrase="Upload Image"><![CDATA[Foto hochladen]]></translation>
+      <translation phrase="Upload"><![CDATA[hochladen]]></translation>
+      <translation phrase="Url is not in valid format"><![CDATA[URL ist kein gültiges Format]]></translation>
+      <translation phrase="Underline"><![CDATA[unterstrichen]]></translation>
+      <translation phrase="Undo"><![CDATA[zurück]]></translation>
+      <translation phrase="Unlink"><![CDATA[Verknüpfung lösen]]></translation>
+      <translation phrase="Use system default"><![CDATA[Benutze Standardeinstellung]]></translation>
+      <translation phrase="Update :title"><![CDATA[Aktualisiere :title]]></translation>
+      <translation phrase="Upload New Picture"><![CDATA[Neues Foto hochladen]]></translation>
+      <translation phrase="Unexpected error occurred"><![CDATA[Unerwarteter Fehler ist aufgetreten]]></translation>
+      <translation phrase="Update Avatar"><![CDATA[Aktualisiere Avatar]]></translation>
+      <translation phrase="Update Status"><![CDATA[Aktualisiere Status]]></translation>
+      <translation phrase="Unclassified"><![CDATA[ohne Zuordnung]]></translation>
+      <translation phrase="Unclassified Tasks and To Do Lists"><![CDATA[Aufgaben und Aufgabenlisten ohne Zuordnung]]></translation>
+      <translation phrase="Unclassified Tasks"><![CDATA[Aufgaben ohne Zuordnung]]></translation>
+      <translation phrase="Unclassified To Do Lists"><![CDATA[Aufgabenlisten ohne Zuordnung]]></translation>
+      <translation phrase="Unassigned"><![CDATA[nicht zugeordnet]]></translation>
+      <translation phrase="Unknown role"><![CDATA[unbekannte Regel]]></translation>
+      <translation phrase="Update milestone and task due dates"><![CDATA[Aktualisiere Fälligkeiten für Meilenstein und Aufgabe]]></translation>
+      <translation phrase="User has been added to selected projects"><![CDATA[Benutzer wurde zu ausgewähltem Projekt hinzugefügt]]></translation>
+      <translation phrase="User &quot;{if $first_name &amp;&amp; $last_name}:first_name :last_name{else}{$_list_prepared_object_object.email}{/if}&quot; from &quot;:company_name&quot; company will &lt;span&gt;not &lt;/span&gt;be {if $_list_prepared_object_object.is_new}added{else}updated{/if}"><![CDATA[Benutzer &quot;{if $first_name &amp;&amp; $last_name}:first_name :last_name{else}{$_list_prepared_object_object.email}{/if}&quot; von &quot;:company_name&quot; Firma wird &lt;span&gt;nicht &lt;/span&gt; {if $_list_prepared_object_object.is_new}hinzugefügt{else}aktualisiert{/if}]]></translation>
+      <translation phrase="Update Information"><![CDATA[Aktualisiere Information]]></translation>
+      <translation phrase="Update Milestone"><![CDATA[Aktualisiere Meilenstein]]></translation>
+      <translation phrase="Upload vCard File"><![CDATA[vCard Datei hochladen]]></translation>
+      <translation phrase="Upload vCard"><![CDATA[vCard hochladen]]></translation>
+      <translation phrase="Use default set of tabs"><![CDATA[Benutze Standardset für Tabs]]></translation>
+      <translation phrase="Up / Down"><![CDATA[hoch / runter]]></translation>
+      <translation phrase="Update Project Request"><![CDATA[Aktualisiere Projekt Anfragen]]></translation>
+      <translation phrase="Users with &lt;span class=&quot;active_role_name&quot;&gt;:role_name&lt;/span&gt; project role"><![CDATA[Benutzer hit &lt;span class=&quot;active_role_name&quot;&gt;:role_name&lt;/span&gt; Projektrolle]]></translation>
+      <translation phrase="Update avatar"><![CDATA[Aktualisiere Avatar]]></translation>
+      <translation phrase="Update Settings"><![CDATA[Aktualisiere Einstellungen]]></translation>
+      <translation phrase="Update successful, :number objects were modified"><![CDATA[Aktualisierung erfolgreich, :number Objekts wurden geändert]]></translation>
+      <translation phrase="Update failed, no objects were modified"><![CDATA[Aktualisierung schlug fehl, kein Objekt wurde geändert]]></translation>
+      <translation phrase="User replaced"><![CDATA[Benutzer wurde ersetzt]]></translation>
+      <translation phrase="Unsaved"><![CDATA[ungespeichert]]></translation>
+      <translation phrase="User permissions have been updated"><![CDATA[Benutzerrechte wurden aktualisiert]]></translation>
+      <translation phrase="Unknown Date"><![CDATA[Unbekanntes Datum]]></translation>
+      <translation phrase="Update Expense Category"><![CDATA[Aktualisiere Aufwandskategorie]]></translation>
+      <translation phrase="Update Job Type"><![CDATA[Aktualisiere Job-Typ]]></translation>
+      <translation phrase="Unknown Status"><![CDATA[Unbekannter Status]]></translation>
+      <translation phrase="Unknown tracking report"><![CDATA[Unbekannte Tracking Auswertung]]></translation>
+      <translation phrase="Unknown Category"><![CDATA[Unbekannte Kategorie]]></translation>
+      <translation phrase="Upload File"><![CDATA[Datei hochladen]]></translation>
+      <translation phrase="Unpin"><![CDATA[loslösen]]></translation>
+      <translation phrase="Upload Files"><![CDATA[Dateien hochladen]]></translation>
+      <translation phrase="Use Status Updates"><![CDATA[Benutze Statusupdates]]></translation>
+      <translation phrase="Use Default Hourly Rate"><![CDATA[Verwenden Sie den Standard-Stundensatz]]></translation>
+      <translation phrase="User has no status updates"><![CDATA[Benutzer hat keine Statusupdates]]></translation>
+      <translation phrase="Unread"><![CDATA[ungelesen]]></translation>
+      <translation phrase="Update Discussion"><![CDATA[Aktualisiere Diskussion]]></translation>
+      <translation phrase="Upload files in the Project:"><![CDATA[Dateien in Projekt hochladen:]]></translation>
+      <translation phrase="Upload files in the :name Project"><![CDATA[Dateien in :name Projekt hochladen]]></translation>
+      <translation phrase="Upload New File Version"><![CDATA[Neue Dateiversion hochladen]]></translation>
+      <translation phrase="Upload a New Version"><![CDATA[Neue Version hochladen]]></translation>
+      <translation phrase="Unknown Upload Error. Upload script didn't give proper response"><![CDATA[Unbekannter Fehler beim Hochladen. Upload Script gibt nicht die richtige Antwort.]]></translation>
+      <translation phrase="Update Notebook"><![CDATA[Aktualisiere Notebook]]></translation>
+      <translation phrase="Unassigned Tasks"><![CDATA[nicht zugeordnete Aufgaben]]></translation>
+      <translation phrase="Use subtasks to break a ticket into smaller steps and to execute them one by one. Every subtask can have due date, priority and a list of assignees"><![CDATA[Verwenden Sie Teilaufgaben, um ein Ticket in kleinere Schritte zu unterteilen und führen sie einer nach der anderen aus. Jede Teilaufgabe kann eine Fälligkeit, Priorität und eine Liste von Beauftragungen enthalten]]></translation>
+      <translation phrase="Update Form"><![CDATA[Aktualisieren Form]]></translation>
+      <translation phrase="Update Task"><![CDATA[Aktualisiere Aufgabe]]></translation>
+      <translation phrase="Unknown Client"><![CDATA[Unbekannter Kunde]]></translation>
+      <translation phrase="User with email address &quot;:email&quot; already exists"><![CDATA[Benutzer mit der Emailadresse &quot;:email&quot; existiert bereits]]></translation>
+      <translation phrase="Unknown Currency"><![CDATA[Unbekannte Währung]]></translation>
+      <translation phrase="Unit Cost"><![CDATA[Kosten pro Einheit]]></translation>
+      <translation phrase="Upload a New logo"><![CDATA[neues Logo hochladen]]></translation>
+      <translation phrase="Unit Price"><![CDATA[Preis je Einheit]]></translation>
+      <translation phrase="Updating Tax Rate"><![CDATA[Aktualisiere Steuer Rate]]></translation>
+      <translation phrase="Update Invoice"><![CDATA[Aktualisiere Rechnung]]></translation>
+      <translation phrase="Upload New Company Logo"><![CDATA[neues Firmenlogo hochladen]]></translation>
+      <translation phrase="Unknown counter"><![CDATA[Unbekannter Zähler]]></translation>
+      <translation phrase="Update Recurring Profile"><![CDATA[Aktualisiere wiederkehrendes Profil]]></translation>
+      <translation phrase=":object_type has been successfully archived"><![CDATA[:object_type wurde erfolgreich archiviert]]></translation>
+      <translation phrase=":object_type has been successfully restored from the archive"><![CDATA[:object_type wurde erfolgreich aus dem Archiv wiederhergestellt]]></translation>
+      <translation phrase=":object_type has been successfully moved to trash"><![CDATA[:object_type wurde erfolgreich in den Papierkorb verschoben]]></translation>
+      <translation phrase=":object_type has been successfully restored from trash"><![CDATA[:object_type wurde erfolgreich aus dem Papierkorb wiederhergestellt]]></translation>
+      <translation phrase="&lt;strong&gt;Preparing page for printing.&lt;/strong&gt;&lt;br /&gt;Please wait."><![CDATA[&lt;strong&gt;Vorbereitung zum Drucken.&lt;/strong&gt;&lt;br /&gt;Bitte warten Sie.]]></translation>
+      <translation phrase=":num items successfully permanently deleted"><![CDATA[:num Elemente erfolgreich permanent gelöscht]]></translation>
+      <translation phrase=":num items successfully restored from trash"><![CDATA[:num Elemente erfolgreich aus dem Papierkorb wiederhergestellt]]></translation>
+      <translation phrase=":name, v:version"><![CDATA[:name, v:version]]></translation>
+      <translation phrase=":name Recent Activities Feed"><![CDATA[:name Neuste Aktivitäten Feed]]></translation>
+      <translation phrase=":user's Recent Activities Feed"><![CDATA[:user's Neuste Aktivitäten Feed]]></translation>
+      <translation phrase=":name :type_lowercase in :target_name :target_type_lowercase created"><![CDATA[:name :type_lowercase in :target_name :target_type_lowercase erstellt]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase in &lt;a href=&quot;:target_url&quot; title=&quot;:target_name&quot;&gt;:target_name_short&lt;/a&gt; :target_type_lowercase created"><![CDATA[&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase in &lt;a href=&quot;:target_url&quot; title=&quot;:target_name&quot;&gt;:target_name_short&lt;/a&gt; :target_type_lowercase erstellt]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase moved to archive"><![CDATA[&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase in das Archiv verschoben]]></translation>
+      <translation phrase=":name :type_lowercase moved to trash"><![CDATA[:name :type_lowercase in den Papierkorb verschoben]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase moved to trash"><![CDATA[&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase in den Papierkorb verschoben]]></translation>
+      <translation phrase=":name :type_lowercase in :target_name :target_type_lowercase reopened"><![CDATA[:name :type_lowercase in :target_name :target_type_lowercase neu eröffent]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase in &lt;a href=&quot;:target_url&quot; title=&quot;:target_name&quot;&gt;:target_name_short&lt;/a&gt; :target_type_lowercase reopened"><![CDATA[&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase in &lt;a href=&quot;:target_url&quot; title=&quot;:target_name&quot;&gt;:target_name_short&lt;/a&gt; :target_type_lowercase neu eröffnet]]></translation>
+      <translation phrase=":name :type_lowercase restored from archive"><![CDATA[:name :type_lowercase wiederhergestellt aus dem Archiv]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase restored from archive"><![CDATA[&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase wiederhergestellt aus dem Archiv]]></translation>
+      <translation phrase=":name :type_lowercase restored from trash"><![CDATA[:name :type_lowercase wiederhergestellt aus dem Papierkorb]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase restored from trash"><![CDATA[&lt;a href=&quot;:url&quot; title=&quot;:name&quot;&gt;:name_short&lt;/a&gt; :type_lowercase wiederhergestellt aus dem Papierkorb]]></translation>
+      <translation phrase="&quot;:name&quot; already exists. Please use a different name"><![CDATA[&quot;:name&quot; existiert bereits. Bitte wählen Sie einen anderen Namen]]></translation>
+      <translation phrase=":type Created"><![CDATA[:type erstellt]]></translation>
+      <translation phrase="&lt;b&gt;:new_assignee&lt;/b&gt; is responsible for this :type"><![CDATA[&lt;b&gt;:new_assignee&lt;/b&gt; ist verantwortlich für :type]]></translation>
+      <translation phrase="&lt;b&gt;:old_assignee&lt;/b&gt; is no longer responsible for this :type"><![CDATA[&lt;b&gt;:old_assignee&lt;/b&gt; ist nicht mehr verantwortlich für :type]]></translation>
+      <translation phrase=":field changed from :old_value to :new_value"><![CDATA[:field geändert von :old_value auf :new_value]]></translation>
+      <translation phrase=":field set to :new_value"><![CDATA[:field gesetzt auf :new_value]]></translation>
+      <translation phrase=":field set to empty value"><![CDATA[:field gesetzt auf einen leeren Wert]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_url&quot;&gt;:user_name&lt;/a&gt; sent you a nudge regarding &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type."><![CDATA[&lt;a href=&quot;:user_url&quot;&gt;:user_name&lt;/a&gt; sendet Ihnen einen Anstupser betreffend &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type.]]></translation>
+      <translation phrase="[SUBJECT NOT PROVIDED]"><![CDATA[[Betreff nicht zur Verfügung gestellt]]]></translation>
+      <translation phrase="[CONTENT NOT PROVIDED]"><![CDATA[[Inhalt zur Verfügung gestellt]]]></translation>
+      <translation phrase="&lt;a href=&quot;:unsubscribe_url&quot;&gt;Click here&lt;/a&gt; to stop receiveing notifications about this :type"><![CDATA[&lt;a href=&quot;:unsubscribe_url&quot;&gt;Klicken Sie hier&lt;/a&gt; um den Empfang von Benachrichtigungen über :type zu stoppen]]></translation>
+      <translation phrase=":total Messages in Queue"><![CDATA[:total Nachrichten in der Warteschlange]]></translation>
+      <translation phrase=":author_name has just completed &quot;&lt;a href=&quot;:object_url&quot; target=&quot;_blank&quot;&gt;:object_name&lt;/a&gt;&quot; :object_type"><![CDATA[:author_name hat soeben &quot;&lt;a href=&quot;:object_url&quot; target=&quot;_blank&quot;&gt;:object_name&lt;/a&gt;&quot; :object_type fertiggestellt]]></translation>
+      <translation phrase=":author_name has just created &lt;a href=&quot;:task_url&quot; target=&quot;_blank&quot;&gt;:new_task_name&lt;/a&gt; task using public task form."><![CDATA[:author_name hat soeben die &lt;a href=&quot;:task_url&quot; target=&quot;_blank&quot;&gt;:new_task_name&lt;/a&gt; Aufgabe über ein öffentliches Formular erstellt..]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_url&quot;&gt;:user_name&lt;/a&gt; sent you a reminder regarding &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type."><![CDATA[&lt;a href=&quot;:user_url&quot;&gt;:user_name&lt;/a&gt; hat Ihnen eine Erinnerung betreffend &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type gesendet.]]></translation>
+      <translation phrase=":author_name has just created &quot;&lt;a href=&quot;:task_url&quot; target=&quot;_blank&quot;&gt;:new_task_name&lt;/a&gt;&quot; task:"><![CDATA[:author_name hat soeben die Aufgabe &quot;&lt;a href=&quot;:task_url&quot; target=&quot;_blank&quot;&gt;:new_task_name&lt;/a&gt;&quot; angelegt:]]></translation>
+      <translation phrase="&lt;a href=&quot;:creator_url&quot; style=&quot;:style1&quot;&gt;:name&lt;/a&gt; has created an account for you. You can &lt;a href=&quot;:login_url&quot; style=&quot;:style2&quot;&gt;log in&lt;/a&gt; with the following parameters:"><![CDATA[&lt;a href=&quot;:creator_url&quot; style=&quot;:style1&quot;&gt;:name&lt;/a&gt; hatt einen Benutzer für Sie angelegt. Sie können &lt;a href=&quot;:login_url&quot; style=&quot;:style2&quot;&gt;hier anmelden&lt;/a&gt; mit folgenden Parametern:]]></translation>
+      <translation phrase=":type has been successfully reopened"><![CDATA[:type wurde erfolgreich wiedereröffnet]]></translation>
+      <translation phrase=":type has been successfully completed"><![CDATA[:type wurde erfolgreich abgeschlossen]]></translation>
+      <translation phrase=":subscriber is subscribed"><![CDATA[:subscriber abonniert]]></translation>
+      <translation phrase=":subscribers are subscribed"><![CDATA[:subscribers haben abonniert]]></translation>
+      <translation phrase=":name's Avatar"><![CDATA[:name's Avatar]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; has completed &quot;:subtask&quot; subtask from &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat die &quot;:subtask&quot; Teilaufgabe von &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type abgeschlossen]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; has reopened &quot;:subtask&quot; subtask from &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat die &quot;:subtask&quot; Teilaufgabe von &lt;a href=&quot;:url&quot;&gt;:name&lt;/a&gt; :type wiedereröffnet]]></translation>
+      <translation phrase=":label can't be cropped"><![CDATA[:label kann nicht beschnitten werden]]></translation>
+      <translation phrase="&lt;a href=&quot;http://ch2.php.net/manual/en/book.image.php&quot; target=&quot;_blank&quot;&gt;GD library&lt;/a&gt; that is needed for resizing images is not installed"><![CDATA[&lt;a href=&quot;http://ch2.php.net/manual/en/book.image.php&quot; target=&quot;_blank&quot;&gt;GD Bibliothek&lt;/a&gt;, die für die Bildgrößenänderung erforderlich ist, ist nicht installiert]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; sent a reminder to himself"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung an sich selbst gesendet]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; set a reminder for himself"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung an sich selbst gesetzt]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; sent a reminder to assignees"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung an die Beauftragten gesendet]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; set a reminder for assignees"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung für die Beauftragten gesetzt]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; sent a reminder to subscribers"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung an die Abonnenten gesendet]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; set a reminder for subscribers"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung für die Abonnenten gesetzt]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; sent a reminder to people involved in a discussion"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung an die Personen in dieser Diskussion gesendet]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; set a reminder for people involved in a discussion"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung für die Personen in dieser Diskussion gesetzt]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; sent a reminder to selected users"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung an die ausgewählten Personen gesendet]]></translation>
+      <translation phrase="&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; set a reminder for selected users"><![CDATA[&lt;a href=&quot;:user_link&quot;&gt;:user_name&lt;/a&gt; hat eine Erinnerung für die ausgewählten Personen gesetzt]]></translation>
+      <translation phrase=":name Search Index"><![CDATA[:name Such Index]]></translation>
+      <translation phrase="&lt;a href=&quot;mailto::created_by_email&quot;&gt;:created_by_name&lt;/a&gt; of &quot;:created_by_company&quot; has submitted a new project request"><![CDATA[&lt;a href=&quot;mailto::created_by_email&quot;&gt;:created_by_name&lt;/a&gt; of &quot;:created_by_company&quot; hat einen neuen Projektantrag abgeschickt]]></translation>
+      <translation phrase="&lt;strong&gt;:people_count&lt;/strong&gt; person on project"><![CDATA[&lt;strong&gt;:people_count&lt;/strong&gt; Personen in diesem Projekt]]></translation>
+      <translation phrase="&lt;strong&gt;:people_count&lt;/strong&gt; people on project"><![CDATA[&lt;strong&gt;:people_count&lt;/strong&gt; Personen in diesem Projekt]]></translation>
+      <translation phrase="&lt;strong&gt;1&lt;/strong&gt; late milestone in this project"><![CDATA[&lt;strong&gt;1&lt;/strong&gt; verspäteter Meilenstein in diesem Projekt]]></translation>
+      <translation phrase="&lt;strong&gt;:milestones_count&lt;/strong&gt; late milestones in this project"><![CDATA[&lt;strong&gt;:milestones_count&lt;/strong&gt; verspätete Meilensteine in diesem Projekt]]></translation>
+      <translation phrase="&lt;strong&gt;1&lt;/strong&gt; milestone scheduled for today"><![CDATA[&lt;strong&gt;1&lt;/strong&gt; Meilenstein geplant für heute]]></translation>
+      <translation phrase="&lt;strong&gt;:milestones_count&lt;/strong&gt; milestones scheduled for today"><![CDATA[&lt;strong&gt;:milestones_count&lt;/strong&gt; Meilensteine geplant für heute]]></translation>
+      <translation phrase="&lt;a href=&quot;:author_url&quot;&gt;:author_name&lt;/a&gt; has created a new subtask for &lt;a href=&quot;:object_url&quot;&gt;:object_name&lt;/a&gt; :object_type"><![CDATA[&lt;a href=&quot;:author_url&quot;&gt;:author_name&lt;/a&gt; hat eine neue Teilaufgabe für &lt;a href=&quot;:object_url&quot;&gt;:object_name&lt;/a&gt; :object_type angelegt]]></translation>
+      <translation phrase=":percent% over"><![CDATA[:percent% drüber]]></translation>
+      <translation phrase=":percent%"><![CDATA[:percent%]]></translation>
+      <translation phrase="-- Select Company --"><![CDATA[-- Firma wählen --]]></translation>
+      <translation phrase="-- Select Font Family --"><![CDATA[-- Schriftart wählen --]]></translation>
+      <translation phrase="-- Select Font Size --"><![CDATA[-- Schriftgröße wählen --]]></translation>
+      <translation phrase="-- Select User --"><![CDATA[-- Benutzer wählen --]]></translation>
+      <translation phrase="-- Create a Blank Project --"><![CDATA[-- Leeres Projekt erstellen --]]></translation>
+      <translation phrase="$company needs to be an instance of Company class"><![CDATA[$company muss eine Instanz der Klasse Firma sein]]></translation>
+      <translation phrase=":object_type removed from milestone &lt;b&gt;:old_value&lt;/b&gt;"><![CDATA[:object_type vom Meilenstein &lt;b&gt;:old_value&lt;/b&gt; entfernt]]></translation>
+      <translation phrase=":type has been moved to selected project"><![CDATA[:type wurde in das ausgewählte Projekt verschoben]]></translation>
+      <translation phrase=":type has been copied to selected project"><![CDATA[wurde in das ausgewählte Projekt kopiert]]></translation>
+      <translation phrase="-- Unknown --"><![CDATA[-- Unbekannt --]]></translation>
+      <translation phrase="$user needs to be an instance of User class"><![CDATA[$user muss eine Instanz der Klasse Personen sein]]></translation>
+      <translation phrase=":count more &amp;raquo;"><![CDATA[:count mehr &amp;raquo;]]></translation>
+      <translation phrase=":name's Permissions"><![CDATA[:name's Berechtigungen]]></translation>
+      <translation phrase="':name' Project Request"><![CDATA[':name' Projekt Anfrage]]></translation>
+      <translation phrase="&lt;a href=&quot;:reminded_by_url&quot;&gt;:reminded_by_name&lt;/a&gt; has reminded you about &lt;a href=&quot;:object_url&quot;&gt;:object_name&lt;/a&gt; :object_type"><![CDATA[&lt;a href=&quot;:reminded_by_url&quot;&gt;:reminded_by_name&lt;/a&gt; hat Sie an &lt;a href=&quot;:object_url&quot;&gt;:object_name&lt;/a&gt; :object_type erinnert]]></translation>
+      <translation phrase="&lt;a href=&quot;:created_by_url&quot;&gt;:created_by_name&lt;/a&gt; has created a new account for you. You can &lt;a href=&quot;:login_url&quot;&gt;log in&lt;/a&gt; with following parameters:"><![CDATA[&lt;a href=&quot;:created_by_url&quot;&gt;:created_by_name&lt;/a&gt; hat einen Benutzer für Sie angelegt. Sie können &lt;a href=&quot;:login_url&quot;&gt;hier anmelden&lt;/a&gt; mit folgenden Parametern:]]></translation>
+      <translation phrase="&lt;span class=&quot;label&quot;&gt;Important&lt;/span&gt;: This project request is marked as closed, so access to this page is no longer available to clients"><![CDATA[&lt;span class=&quot;label&quot;&gt;Wichtig&lt;/span&gt;: Da dieses Projekt Anfrage als geschlossen markiert ist, können Kunden auf diese Seite nicht mehr zugreifen]]></translation>
+      <translation phrase="&lt;b&gt;Thank you for purchasing activeCollab!&lt;/b&gt; We hope that you will enjoy using it as much as we enjoyed developing it"><![CDATA[&lt;b&gt;Danke, dass Sie activeCollab erworben haben!&lt;/b&gt; Wir hoffen, dass Sie genießen es, genauso, wie wir es genossen haben, es zu entwickeln]]></translation>
+      <translation phrase=":name's avatar"><![CDATA[:name's Avatar]]></translation>
+      <translation phrase="#:task_id :task_name"><![CDATA[#:task_id :task_name]]></translation>
+      <translation phrase="(Type) Name"><![CDATA[(Typ) Name]]></translation>
+      <translation phrase=":name has been removed from the project"><![CDATA[:name wurde von dem Projekt entfern]]></translation>
+      <translation phrase="&lt;a href=&quot;mailto::client_email&quot;&gt;:client_name&lt;/a&gt; from :client_company"><![CDATA[&lt;a href=&quot;mailto::client_email&quot;&gt;:client_name&lt;/a&gt; von :client_company]]></translation>
+      <translation phrase=":type successfully rescheduled"><![CDATA[:type wurde erfolgreich neu geplant]]></translation>
+      <translation phrase=":num Project Requests Selected"><![CDATA[:num Projekt Anfragen ausgewählt]]></translation>
+      <translation phrase=":num Projects Selected"><![CDATA[:num Projekte ausgewählt]]></translation>
+      <translation phrase=":daysd"><![CDATA[:daysd]]></translation>
+      <translation phrase=":hoursh"><![CDATA[:hoursh]]></translation>
+      <translation phrase=":minutesm"><![CDATA[:minutesm]]></translation>
+      <translation phrase=":value in :category"><![CDATA[:value in :category]]></translation>
+      <translation phrase=":time expenses"><![CDATA[:time Aufwände]]></translation>
+      <translation phrase="(:value) billable expense logged for &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase"><![CDATA[(:value) abrechnungsfähige Aufwände aufgezeichnet für &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase]]></translation>
+      <translation phrase="(:value) non billable expense logged for &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase"><![CDATA[(:value) nicht abrechnungsfähige Aufwände aufgezeichnet für &lt;a href=&quot;:target_url&quot;&gt;:target_name&lt;/a&gt; :target_type_lowercase]]></translation>
+      <translation phrase="(:value) non billable expense submitted to &quot;:target_name&quot; :target_type_lowercase"><![CDATA[(:value) nicht abrechnungsfähige Aufwände übermittelt an &quot;:target_name&quot; :target_type_lowercase]]></translation>
+      <translation phrase="(:value) billable expense submitted to &quot;:target_name&quot; :target_type_lowercase"><![CDATA[(:value) abrechnungsfähige Aufwände übermittelt an &quot;:target_name&quot; :target_type_lowercase]]></translation>
+      <translation phrase="(:value) billable expense logged for :target_name :target_type_lowercase"><![CDATA[(:value) abrechnungsfähige Aufwände aufgezeichnet für :target_name :target_type_lowercase]]></translation>
+      <translation phrase="(:value) non billable expense logged for :target_name :target_type_lowercase"><![CDATA[(:value) nicht abrechnungsfähige Aufwände aufgezeichnet für :target_name :target_type_lowercase]]></translation>
+      <translation phrase=":estimate of :job_type"><![CDATA[:estimate von :job_type]]></translation>
+      <translation phrase=":time_record_value h, :user_name"><![CDATA[:time_record_value h, :user_name]]></translation>
+      <translation phrase="$ :expense_value, :user_name"><![CDATA[$ :expense_value, :user_name]]></translation>
+      <translation phrase=":hours of :job_type"><![CDATA[:hours von :job_type]]></translation>
+      <translation phrase=":amount in :category"><![CDATA[:amount in :category]]></translation>
+      <translation phrase="&quot;:name&quot; report already exists. Please use a different name"><![CDATA[&quot;:name&quot; Bericht existiert bereits. Bitte wählen Sie einen anderen Namen]]></translation>
+      <translation phrase=":value of :job_name"><![CDATA[:value von :job_name]]></translation>
+      <translation phrase=":expense spent"><![CDATA[:expense verbraucht]]></translation>
+      <translation phrase=":hours h"><![CDATA[:hours h]]></translation>
+      <translation phrase=":minutes m"><![CDATA[:minutes m]]></translation>
+      <translation phrase="&lt;strong&gt;Public documents&lt;/strong&gt; are visible to everyone who can access Documents section"><![CDATA[&lt;strong&gt;Öffentliche Dokumente&lt;/strong&gt; sind nur sichtbar für Personen, die auf die Dokumenten Sektion zugreifen können]]></translation>
+      <translation phrase="&lt;strong&gt;Private documents&lt;/strong&gt; are visible only to people who have role with can_see_private_objects permission set to Yes"><![CDATA[&lt;strong&gt;Private Dokumente&lt;/strong&gt; sind nur sichtbar für Personen,  die eine Rolle haben, wo die Berechtigung can_see_private_objects auf Ja gesetzt ist]]></translation>
+      <translation phrase=":num Documents Selected"><![CDATA[:num Dokumente ausgewählt]]></translation>
+      <translation phrase=":num Todo Lists Selected"><![CDATA[:num ToDo Liste ausgewählt]]></translation>
+      <translation phrase=":num Discussions Selected"><![CDATA[:num Diskussionen ausgewählt]]></translation>
+      <translation phrase=":name name is required"><![CDATA[:name Name ist notwendig]]></translation>
+      <translation phrase="{$active_text_document_version-&gt;getName()} ({$active_asset-&gt;getName()} Version #{$active_text_document_version-&gt;getVersionNum()})"><![CDATA[{$active_text_document_version-&gt;getName()} ({$active_asset-&gt;getName()} Version #{$active_text_document_version-&gt;getVersionNum()})]]></translation>
+      <translation phrase="&lt;strong&gt;Note&lt;/strong&gt;: Max upload size is :max_size per file"><![CDATA[&lt;strong&gt;Hinweis&lt;/strong&gt;: Maximal Größe zum hochladen ist :max_size pro Datei]]></translation>
+      <translation phrase=":num Assets Selected"><![CDATA[:num Anlagen asugewählt]]></translation>
+      <translation phrase=":user's calendar"><![CDATA[:user's Kalender]]></translation>
+      <translation phrase="&lt;a href=&quot;:url&quot; class=&quot;compare_versions&quot; left_version_num=&quot;:left_version_num&quot; right_version_num=&quot;:right_version_num&quot;&gt;#:version&lt;/a&gt; by :user (on :date)"><![CDATA[&lt;a href=&quot;:url&quot; class=&quot;compare_versions&quot; left_version_num=&quot;:left_version_num&quot; right_version_num=&quot;:right_version_num&quot;&gt;#:version&lt;/a&gt; nach :user (on :date)]]></translation>
+      <translation phrase="&lt;span&gt;#:version&lt;/span&gt; by :user (on :date)"><![CDATA[&lt;span&gt;#:version&lt;/span&gt; nach :user (on :date)]]></translation>
+      <translation phrase=":num Tasks Selected"><![CDATA[:num Aufgaben ausgewählt]]></translation>
+      <translation phrase="#:invoice_id.pdf"><![CDATA[#:invoice_id.pdf]]></translation>
+      <translation phrase="#:quote_id.pdf"><![CDATA[#:quote_id.pdf]]></translation>
+      <translation phrase=":invoice_id.pdf"><![CDATA[:invoice_id.pdf]]></translation>
+      <translation phrase=":quote_id.pdf"><![CDATA[:quote_id.pdf]]></translation>
+      <translation phrase=":count overdue invoices"><![CDATA[:count überfällige Rechnungen]]></translation>
+      <translation phrase=":count overdue invoice"><![CDATA[:count überfällige Rechnungen]]></translation>
+      <translation phrase=":count outstanding invoice"><![CDATA[:count ausstehende Rechnungen]]></translation>
+      <translation phrase=":count outstanding invoices"><![CDATA[:count ausstehende Rechnungen]]></translation>
+      <translation phrase=":count overdue invoices for your company"><![CDATA[:count überfällige Rechnungen für Ihre Firma]]></translation>
+      <translation phrase=":name's Paid / Canceled Invoices"><![CDATA[:name's bezahlte / stornierte Rechnungen]]></translation>
+      <translation phrase="':name' Quote"><![CDATA[':name' Angebot]]></translation>
+      <translation phrase="&lt;span class=&quot;label&quot;&gt;Important&lt;/span&gt;: Access to this quote is no longer available to clients"><![CDATA[&lt;span class=&quot;label&quot;&gt;Wichtig&lt;/span&gt;: Der Zugriff auf das Angebot ist für die Kunden nicht mehr verfügbar]]></translation>
+      <translation phrase=":num Recurring Profiles Selected"><![CDATA[:num Wiederkehrende Profile ausgewählt]]></translation>
     </translations>
   </language>
