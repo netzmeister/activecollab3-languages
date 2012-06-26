@@ -142,7 +142,7 @@
       <translation phrase=":num days ago"><![CDATA[vor :num Tagen]]></translation>
       <translation phrase=":num hours ago"><![CDATA[vor :num Stunden]]></translation>
       <translation phrase=":num minutes ago"><![CDATA[vor :num Minuten]]></translation>
-      <translation phrase=" language added"><![CDATA[Sprache hinzugefügt]]></translation>
+      <translation phrase=" language added"><![CDATA[ Sprache hinzugefügt]]></translation>
       <translation phrase=":num minutes"><![CDATA[:num Minuten]]></translation>
       <translation phrase=":num Users Selected"><![CDATA[:num Benutzer ausgewählt]]></translation>
       <translation phrase=":name :type_lowercase completed"><![CDATA[:name :type_lowercase abgeschlossen]]></translation>
