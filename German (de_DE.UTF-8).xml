@@ -3187,7 +3187,7 @@
       <translation phrase="Thank you for submitting project request"><![CDATA[Vielen Dank für die übermittelte Projekt Anfrage]]></translation>
       <translation phrase="Thank you for your request"><![CDATA[Vielen Dank für Ihre Anfrage]]></translation>
       <translation phrase="Todo Lists"><![CDATA[Aufgaben Liste]]></translation>
-      <translation phrase="To Be Determined"><![CDATA[Um zu bestimmen]]></translation>
+      <translation phrase="To Be Determined"><![CDATA[noch zu bestimmen]]></translation>
       <translation phrase="Tip: To make a single day milestone, set start and due dates to the same date"><![CDATA[Tip: Um einen Einzeltag Meilenstein zu erstellen, setzten Sie Start- und Enddatum auf den gleichen Tag]]></translation>
       <translation phrase="There are no users with project requests management permissions"><![CDATA[Es gibt keine Benutzer mit der Projekt Anfragen Management Berechtigung]]></translation>
       <translation phrase="Tomorrow"><![CDATA[Morgen]]></translation>
@@ -3688,10 +3688,6 @@
       <translation phrase="The path to the existing repository cannot be changed"><![CDATA[Der Pfad eines existierenden Repository kann nicht geändert werden]]></translation>
       <translation phrase="There are {$context-&gt;last_update_commits_count} new commits"><![CDATA[Es gibt {$context-&gt;last_update_commits_count} neue Commits]]></translation>
       <translation phrase="This option is valid only for Subversion v1.6 and later"><![CDATA[Diese Option ist nur für Subversion v1.6 und später möglich]]></translation>
-      <translation phrase="This method requires SVN PHP extension to be installed. Read more about SVN extension in PHP documentation: 
-  	  &lt;a href=&quot;http://www.php.net/manual/en/book.svn.php&quot;&gt;http://www.php.net/manual/en/book.svn.php&lt;/a&gt;"><![CDATA[Diese Methode setzt eine SVN PHP Erweiterung voraus. Lesen Sie mehr über die SVN Erweiterungen in der PHP Dokumentation:   	  &lt;a href=&quot;http://www.php.net/manual/en/book.svn.php&quot;&gt;http://www.php.net/manual/en/book.svn.php&lt;/a&gt;]]></translation>
-      <translation phrase="This method requires XML PHP extension to be installed. Read more about XML extension in PHP documentation: 
-  	  &lt;a href=&quot;http://www.php.net/xml&quot;&gt;http://www.php.net/xml&lt;/a&gt;"><![CDATA[Diese Methode setzt eine XML PHP Erweiterung voraus. Lesen Sie mehr über die XML Erweiterungen in der PHP Dokumentation:   	  &lt;a href=&quot;http://www.php.net/xml&quot;&gt;http://www.php.net/xml&lt;/a&gt;]]></translation>
       <translation phrase="SVN Location"><![CDATA[SVN Position]]></translation>
       <translation phrase="SVN Config Directory Path"><![CDATA[SVN Konfigurations Verzeichnis Pfad]]></translation>
       <translation phrase="SVN Extension"><![CDATA[SVN Erweiterung]]></translation>
@@ -3870,5 +3866,13 @@
       <translation phrase="System is able to a send copy of issued invoice to the client, but to do that, there needs to be at least one user in the client company with one of the following roles"><![CDATA[Das System ist in der Lage, eine Kopie einer ausgestellte Rechnung dem Kunden zu senden, aber hierfür, muss zumindest ein Benutzer in dieser Kunden Firma eine der folgenden Rollen besitzen]]></translation>
       <translation phrase="Selected contact person will receive an e-mail with this quote attached in PDF format. Also, a public page will be generated where client can post comments in case that they do not have activeCollab user account."><![CDATA[Die ausgewählte Kontaktperson wird eine Email mit dem Angebot in PDF Format als Anhang erhalten. Außerdem wird eine öffentliche Seite angelegt, auf der der Kunde Kommentare veröffentlichen kann, sofern er einen activeCollab Zugang hat.]]></translation>
       <translation phrase="System supports definition of unlimited number of tax rates, but only one tax rate can be used per invoice item. Each invoice item can have a different tax rate set or no tax applied at all. Tax rates that are already in used can't be deleted unless all invoices which use it are deleted"><![CDATA[Das System unterstützt eine beliebige Anzahl von Steuersätzen, aber nur ein Steuersatz kann pro Rechnungslement verwandt werden. Jede Rechnung kann unterschiedliche Steuersätze oder auch keien Steuer haben. Steuersätze, die bereits in Verwendung sind, können erst gelöscht werden, wenn alle Rechnungen, die diesen verwenden, gelöscht sind]]></translation>
+      <translation phrase="Billing Status"><![CDATA[Abrechnungs-Status]]></translation>
+      <translation phrase="by Milestone"><![CDATA[nach Meilenstein]]></translation>
+      <translation phrase="by User"><![CDATA[nach Benutzer]]></translation>
+      <translation phrase="by Task"><![CDATA[nach Aufgabe]]></translation>
+      <translation phrase="by Job Type"><![CDATA[nach Jobart]]></translation>
+      <translation phrase="Enter % value to apply"><![CDATA[Geben Sie einen %-Wert ein ]]></translation>
+      <translation phrase="Job type"><![CDATA[Jobart]]></translation>
+      <translation phrase="Non Billable"><![CDATA[nicht abrechenbar]]></translation>
     </translations>
   </language>
