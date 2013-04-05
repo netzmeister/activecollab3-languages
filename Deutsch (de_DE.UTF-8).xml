@@ -1284,7 +1284,7 @@
       <translation phrase="Drafts quotes"><![CDATA[Entwirft Angebote]]></translation>
       <translation phrase="Description is required"><![CDATA[Beschreibung erforderlich]]></translation>
       <translation phrase="Duplicate"><![CDATA[Duplizieren]]></translation>
-      <translation phrase="Draft #:invoice_num"><![CDATA[Entwurfsnr. :invoice_num]]></translation>
+      <translation phrase="Draft #:invoice_num"><![CDATA[Entwurf #:invoice_num]]></translation>
       <translation phrase="Download PDF"><![CDATA[PDF herunterladen]]></translation>
       <translation phrase="Download Invoice in PDF Format"><![CDATA[Rechnung im PDF-Format herunterladen]]></translation>
       <translation phrase="Download Quote in PDF Format"><![CDATA[Angebot im PDF-Format herunterladen]]></translation>
@@ -3961,7 +3961,8 @@
       <translation phrase="Amount Paid:"><![CDATA[Bereits gezahlt:]]></translation>
       <translation phrase="Balance Due"><![CDATA[zu zahlen]]></translation>
       <translation phrase="Balance Due:"><![CDATA[zu zahlen:]]></translation>
-      <translation phrase="Decimal Separator"><![CDATA[,]]></translation>
-      <translation phrase="Thousands Separator"><![CDATA[.]]></translation>
+      <translation phrase="Decimal Separator"><![CDATA[Dezimal-Trennzeichen]]></translation>
+      <translation phrase="Thousands Separator"><![CDATA[Tausender Trennzeichen]]></translation>
+      <translation phrase="Don't Send To"><![CDATA[Nicht senden an]]></translation>
     </translations>
   </language>
